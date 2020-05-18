@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.1](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.1) (2020-05-18)
+
+[Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/v1.0.0...v1.0.1)
+
+**Implemented enhancements:**
+
+- Update readme [\#2](https://github.com/shinyaohtani/eudora_sound/issues/2)
+
+**Merged pull requests:**
+
+- Readme [\#3](https://github.com/shinyaohtani/eudora_sound/pull/3) ([shinyaohtani](https://github.com/shinyaohtani))
+
 ## [v1.0.0](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.0) (2020-05-18)
 
 [Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/9bfc0cfcd53f393da95687beff246a0af6056b92...v1.0.0)
