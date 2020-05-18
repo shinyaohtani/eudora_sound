@@ -1,8 +1,10 @@
 # EudoraSound
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/eudora_sound`. To experiment with that code, run `bin/console` for an interactive prompt.
+- This plays the ancient Eudora mailer's sound.
+  - Use this to notify the end of processing etc.
 
-TODO: Delete this and the text above, and describe your gem
+- Eudora is a famous, ancient mailer.
+  - [wikipedia](https://en.wikipedia.org/wiki/Eudora_%28email_client%29)
 
 ## Installation
 
@@ -22,7 +24,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+- Just call it.
+
+  ```bash
+  $ eudora_sound
+  ♪
+  ```
+
+- use case:
+
+  ```bash
+  $ your_long_process.sh && eudora_sound
+  ```
 
 ## Development
 
@@ -32,8 +45,12 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/eudora_sound. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/eudora_sound/blob/master/CODE_OF_CONDUCT.md).
-
+Bug reports and pull requests are welcome!
+1. Fork it ( https://github.com/shinyaohtani/eudora_sound )
+1. Create your feature branch (git checkout -b my-new-feature)
+1. Commit your changes (git commit -am 'Add some feature')
+1. Push to the branch (git push origin my-new-feature)
+1. Create a new Pull Request
 
 ## License
 
@@ -41,4 +58,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the EudoraSound project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/eudora_sound/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the MasterDelivery project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/shinyaohtani/eudora_sound/blob/master/CODE_OF_CONDUCT.md).
