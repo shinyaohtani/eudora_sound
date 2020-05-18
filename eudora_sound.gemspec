@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Shinya Ohtani (shinyaohtani@github)']
   spec.email         = ['shinya_ohtani@yahoo.co.jp']
 
-  spec.summary       = 'Convert natural Japanese sentences into word-spacing notes for musical notes.'
+  spec.summary       = 'This plays the sound of the famous ancient mailer "Eudora".'
   spec.description   = EudoraSound::DESCRIPTION
   spec.homepage      = EudoraSound::REPOSITORY_URL + '/tree/master/README.md'
   spec.license       = 'MIT'
