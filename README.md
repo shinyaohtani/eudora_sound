@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/eudora_sound.svg)](https://badge.fury.io/rb/eudora_sound)
+
 # EudoraSound
 
 - This plays the ancient Eudora mailer's sound.
