@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    eudora_sound (0.9.0)
+    eudora_sound (1.0.0)
 
 GEM
   remote: https://rubygems.org/
