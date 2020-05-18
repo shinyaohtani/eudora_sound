@@ -2,3 +2,5 @@
 # frozen_string_literal: true
 
 require 'eudora_sound'
+
+EudoraSound.play
