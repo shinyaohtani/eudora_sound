@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.2](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.2) (2020-05-20)
+
+[Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/v1.0.1...v1.0.2)
+
+- Play the sound in asynchronous mode.
+
+**Implemented enhancements:**
+
+- Asynchronous play [\#6](https://github.com/shinyaohtani/eudora_sound/issues/6)
+
+**Merged pull requests:**
+
+- appended '&' to system command. [\#7](https://github.com/shinyaohtani/eudora_sound/pull/7) ([shinyaohtani](https://github.com/shinyaohtani))
+
 ## [v1.0.1](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.1) (2020-05-18)
 
 [Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/v1.0.0...v1.0.1)
