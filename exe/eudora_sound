@@ -3,4 +3,4 @@
 
 require 'eudora_sound'
 
-EudoraSound.play
+EudoraSound::EudoraSound.play
