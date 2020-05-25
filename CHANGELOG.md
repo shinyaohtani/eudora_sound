@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.0.3](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.3) (2020-05-25)
+
+[Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/v1.0.2...v1.0.3)
+
+- To output a message if OS is other than macOS: "Not supported OS"
+
+**Implemented enhancements:**
+
+- Print a message "Not supported OS" [\#11](https://github.com/shinyaohtani/eudora_sound/issues/11)
+
+**Merged pull requests:**
+
+- implemented [\#12](https://github.com/shinyaohtani/eudora_sound/pull/12) ([shinyaohtani](https://github.com/shinyaohtani))
+
 ## [v1.0.2](https://github.com/shinyaohtani/eudora_sound/tree/v1.0.2) (2020-05-20)
 
 [Full Changelog](https://github.com/shinyaohtani/eudora_sound/compare/v1.0.1...v1.0.2)
